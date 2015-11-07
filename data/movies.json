@@ -1,0 +1,71 @@
+{
+  "avatar": {
+    "title": "Avatar",
+    "posterImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
+    "trailerYoutubeUrl": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+    "imdbId": "tt0499549"
+  },
+
+  "ismileback": {
+    "title": "I Smile Back",
+    "posterImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/I_Smile_Back_poster.jpg/220px-I_Smile_Back_poster.jpg",
+    "trailerYoutubeUrl": "https://www.youtube.com/watch?v=YIBqq-AQcE0",
+    "imdbId": "tt3640682"
+  },
+
+  "insideout": {
+    "title": "Inside Out",
+    "posterImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Inside_Out_%282015_film%29_poster.jpg/220px-Inside_Out_%282015_film%29_poster.jpg",
+    "trailerYoutubeUrl": "https://www.youtube.com/watch?v=seMwpP0yeu4",
+    "imdbId": "tt2096673"
+  },
+
+  "thecondemned": {
+    "title": "The Condemned",
+    "posterImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/The-condemned-poster.jpg/220px-The-condemned-poster.jpg",
+    "trailerYoutubeUrl": "https://www.youtube.com/watch?v=tSsuNN6jEjQ",
+    "imdbId": "tt0443473"
+  },
+
+  "wreckers": {
+    "title": "Wreckers",
+    "posterImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Wreckers_film_poster.png/220px-Wreckers_film_poster.png",
+    "trailerYoutubeUrl": "https://www.youtube.com/watch?v=_-gM1h9MCL4",
+    "imdbId": "tt1650028"
+  },
+
+  "trainwreck": {
+    "title": "Trainwreck",
+    "posterImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Trainwreck_poster.jpg/220px-Trainwreck_poster.jpg",
+    "trailerYoutubeUrl": "https://www.youtube.com/watch?v=2MxnhBPoIx4",
+    "imdbId": "tt3152624"
+  },
+
+  "rickiandtheflash": {
+    "title": "Ricki and the Flash",
+    "posterImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Ricki_and_the_Flash_poster.jpg/220px-Ricki_and_the_Flash_poster.jpg",
+    "trailerYoutubeUrl": "https://www.youtube.com/watch?v=x8PVK6Hky2A",
+    "imdbId": "tt3623726"
+  },
+
+  "scorchtrials": {
+    "title": "Scorch Trials",
+    "posterImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Maze-Runner-The-Scorch-Trials-Poster.jpg/220px-Maze-Runner-The-Scorch-Trials-Poster.jpg",
+    "trailerYoutubeUrl": "https://www.youtube.com/watch?v=SDofO3P2HpE",
+    "imdbId": "tt4046784"
+  },
+
+  "martian": {
+    "title": "The Martian",
+    "posterImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/The_Martian_film_poster.jpg/220px-The_Martian_film_poster.jpg",
+    "trailerYoutubeUrl": "https://www.youtube.com/watch?v=Ue4PCI0NamI",
+    "imdbId": "tt3659388"
+  },
+
+  "datenight": {
+    "title": "Date Night",
+    "posterImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Date_night_poster.jpg/220px-Date_night_poster.jpg",
+    "trailerYoutubeUrl": "https://www.youtube.com/watch?v=aspBKFz2dBI",
+    "imdbId": "tt1279935"
+  }
+}
