@@ -12,8 +12,11 @@ class Movie():
         self.__getImdbData(self.imdb_id)
 
     def __getImdbData(self, imdb_id):
-        """Launch HTTP GET request to retrieve IMDB data using IMDB ID and OMDB
-        API"""
+        """
+        Launch HTTP GET request to retrieve IMDB data using IMDB ID and OMDB
+        API. This method can be improved by launching asynchronous request.
+        However it is unnecessary since each request takes minimum time.
+        """
         url = "http://www.omdbapi.com/?plot=short&r=json&i=" + imdb_id
         try:
             imdb_data = json.load(urllib2.urlopen(url))
